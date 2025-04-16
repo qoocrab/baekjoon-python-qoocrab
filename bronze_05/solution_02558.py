@@ -1,0 +1,5 @@
+# Time Complexity: O(1)
+# Space Complexity: O(1)
+a = int(input())
+b = int(input())
+print(a + b)
