@@ -1,0 +1,5 @@
+# Time Complexity: O(1)
+# Space Complexity: O(1)
+print(".  .   .")
+print("|  | _ | _. _ ._ _  _")
+print(r"|/\|(/.|(_.(_)[ | )(/.")

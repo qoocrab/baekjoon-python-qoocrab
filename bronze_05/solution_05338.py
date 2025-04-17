@@ -1,0 +1,7 @@
+# Time Complexity: O(1)
+# Space Complexity: O(1)
+print("       _.-;;-._")
+print("'-..-'|   ||   |")
+print("'-..-'|_.-;;-._|")
+print("'-..-'|   ||   |")
+print("'-..-'|_.-''-._|")
